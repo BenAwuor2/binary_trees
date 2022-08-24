@@ -1,4 +1,5 @@
 # binary_trees
+[binary_trees](https://th.bing.com/th/id/R.dd5f7995ce21060454af9b3eea134948?rik=tCc5ekgrekXdsA&riu=http%3a%2f%2fwww.sirenix.net%2fContent%2fimg%2fgallery%2fodininspector%2fLists2.png&ehk=RQlFFPO20Aeg6rxpyIf4zFaOllyOAxQ0uJhVtJch7Uw%3d&risl=&pid=ImgRaw&r=0)
 
 ## WHAT ARE BINARY TREES?
 ---
